@@ -149,7 +149,7 @@ button:hover{
         border-top: none;
         border-radius: 40px;
         margin-top: 20px;
-        margin-left: 45px;
+        margin-left: 60px;
         text-align: center;
         margin-bottom: 15px;
     }
@@ -163,7 +163,7 @@ button:hover{
         box-sizing: border-box;
         margin-top: 20px;
         margin-bottom: 10px;
-        margin-left: 25px;
+        margin-left: 35px;
         border-radius: 17px;
         outline: none;
     }
@@ -178,12 +178,13 @@ button:hover{
         border: none solid rgba(221, 160, 221, 0.233);
         border-color: rgba(221, 160, 221, 0.274);
         background-color: plum;
-        margin-left: 90px;
+        margin-left: 110px;
         border-radius: 20px;
         /* outline-color: plum; */
         text-align: center;
         padding: auto;
         font-weight: 700;
+        color: black;
     }
   
     #addList{
@@ -198,8 +199,8 @@ button:hover{
     }
     
     #check{
-        height: 10px;
-        width: 10px;
+        height: 15px;
+        width: 15px;
         margin-left: 15px;
         margin-top: 8px;
     }
