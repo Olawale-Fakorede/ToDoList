@@ -29,6 +29,10 @@ body{
     margin-left: 455px;
     text-align: center;
     margin-bottom: 15px;
+    padding-top: 20px;
+    color: snow;
+    font-weight: 600;
+    font-size: 20px;
 }
 
 #taskInput{
@@ -138,8 +142,8 @@ button:hover{
         border: none groove black;
         /* left: 5%; */
         background: url(pexels.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
+        /* background-repeat: no-repeat; */
+        background-size: contain;
     }
     
     #dateDay{
@@ -152,6 +156,10 @@ button:hover{
         margin-left: 60px;
         text-align: center;
         margin-bottom: 15px;
+        padding-top: 20px;
+        color: snow;
+        font-weight: 600;
+        font-size: 20px;
     }
     
     #taskInput{
